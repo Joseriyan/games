@@ -21,7 +21,7 @@ print(question2)
 print(options2)
 while True:
     response2 = input("Hit 'a','b','c' for your answer\n")
-    if response2 == "a":
+    if response2 == "c":
         score = score + 1
         break
     else:print("Incorrect")
@@ -33,7 +33,7 @@ print(question3)
 print(options3)
 while True:
     response3 = input("Hit 'a','b','c'  for your answer\n")
-    if response3 == "b":
+    if response3 == "a":
         score = score + 1
         break
     else:print("Incorrect")
