@@ -2,7 +2,7 @@ score = 0
 score = int(score)
 
 print("QUIZ")
-question1 = "what is the nationl of india?"
+question1 = "what is your mother tongue?"
 options1 = "a.hindi\nb. Tamil\nc.  telugu\n"
 print(question1)
 print(options1)
