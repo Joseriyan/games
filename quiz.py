@@ -16,7 +16,7 @@ while True:
 print("Your current score is " + str(score) + " out of 5")
 
 question2 = "Who is the first president of india?"
-options2 = "a.nehru\nd. radhakrishnan\nc. rajendra prasad\n"
+options2 = "a.rajendra prasad\nd. radhakrishnan\nc. nehru\n"
 print(question2)
 print(options2)
 while True:
