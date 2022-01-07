@@ -28,7 +28,7 @@ while True:
 print("Your current score is " + str(score) + " out of 5")
 
 question3 = "When the second world war started?"
-options3 = "a.1939\nb. 1940\nc.  1941\n"
+options3 = "a.1940\nb. 1939\nc.  1941\n"
 print(question3)
 print(options3)
 while True:
