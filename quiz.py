@@ -67,4 +67,4 @@ while True:
 print("Your current score is " + str(score) + " out of 5")
 
 print("Your total score is " + str(score) + " out of 5")
-print("finished {}, game over!")
+print("finished {}, quiz over!")
